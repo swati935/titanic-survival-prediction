@@ -29,8 +29,3 @@ features such as age, gender, ticket class, and fare.
 The model was able to predict passenger survival with reasonable accuracy.
 This project helped me understand the complete machine learning workflow 
 from data preprocessing to model evaluation.
-## Kaggle Notebook
-https://www.kaggle.com/yourusername/titanic-notebook
-## Kaggle Notebook
-https://www.kaggle.com/yourusername/titanic-notebook
-
